@@ -2,7 +2,7 @@
     "name": "avr-utils",
     "displayName": "AVR Utils",
     "description": "This extension will help you to compile code for avr based microcontrollers straight from the comfort of your favourite code editor!",
-    "version": "0.3.1",
+    "version": "0.3.1-fork",
     "repository": {
         "url": "https://github.com/StrongTheDev/avr-utils.git",
         "type": "git"
@@ -187,14 +187,14 @@
     },
     "authors": [
         {
-            "name": "Daniel Strong Agani",
-            "email": "aganidanielstrong@gmail.com",
-            "url": "https://github.com/StrongTheDev"
+            "name": "test",
+            "email": "test@gmail.com",
+            "url": "https://github.com/test"
         },
         {
-            "name": "Alireza Jahanbakhshi",
-            "email": "alireza.jahanbakhshi@yahoo.com",
-            "url": "https://github.com/Alireza-Jahanbakhshi"
+            "name": "test2",
+            "email": "test@yahoo.com",
+            "url": "https://github.com/test2"
         }
     ],
     "license": "MIT",
