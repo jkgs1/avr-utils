@@ -1,10 +1,10 @@
 {
-    "name": "avr-utils",
+    "name": "avr-utils-johnsfork",
     "displayName": "AVR Utils",
     "description": "This extension will help you to compile code for avr based microcontrollers straight from the comfort of your favourite code editor!",
     "version": "0.3.1-fork",
     "repository": {
-        "url": "https://github.com/StrongTheDev/avr-utils.git",
+        "url": "https://github.com/jkgs1/avr-utils",
         "type": "git"
     },
     "icon": "assets/icons/extension-icon.png",
@@ -210,7 +210,7 @@
         "access": "public"
     },
     "bugs": {
-        "url": "https://github.com/StrongTheDev/avr-utils/issues"
+        "url": "https://github.com/jkgs1/avr-utils/issues"
     },
-    "homepage": "https://github.com/StrongTheDev/avr-utils#readme"
+    "homepage": "https://github.com/jkgs1/avr-utils#readme"
 }
